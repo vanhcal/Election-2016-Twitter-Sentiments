@@ -5,10 +5,15 @@ A Python project using the Twitter API and a Mashape API to pull and evaluate al
 (The incrementing integer below counts how many tweets have been evaluated.)
 
 Sample output:
+
 {
+
   "result": {
+  
     "confidence": "50.0000", 
+    
     "sentiment": "Neutral"
+    
   }
 }
 50.0
